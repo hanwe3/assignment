@@ -8,3 +8,4 @@ glacier verifier
 wget https://github.com/Glacier-Labs/node-bootstrap/releases/download/v0.0.2-beta/verifier_linux_amd64
 ``
 
+
